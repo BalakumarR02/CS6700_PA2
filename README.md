@@ -8,7 +8,7 @@ This repository contains implementations of the following reinforcement learning
 ## Files
 
 - `DDQN.ipynb`: Jupyter Notebook containing the implementation of the Dueling Deep Q-Network algorithm.
-- `MC_REINFORCE.ipynb`: Jupyter Notebook containing the implementation of the Monte Carlo REINFORCE algorithm.
+- `MC_Acrobot.ipynb`,'CartPole_working.ipynb': Jupyter Notebook containing the implementation of the Monte Carlo REINFORCE algorithm.
 
 ## Requirements
 
